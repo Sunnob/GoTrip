@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Rubik-Italic';
+    src: url(../fonts/Rubik-Italic.ttf) format('truetype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Rubik-Variable';
+    src: url(../fonts/Rubik-Variable.ttf) format('truetype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url(../fonts/Inter.ttf) format('truetype');
+    font-weight: 600;
+}
